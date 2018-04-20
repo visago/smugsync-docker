@@ -1,0 +1,2 @@
+# smugsync-docker
+SmugMug Sync
